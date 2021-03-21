@@ -1,6 +1,6 @@
 # CVE finder:
 
-This was done just because I was really really really lazy to read the news for cves to maintain my computer
+This was done just because I was really really really lazy to read the news for cves to maintain my some infrastructure that I was in charge of handling
 
 Sooo the best way is to use a discord bot to do the job for me right :D
 
